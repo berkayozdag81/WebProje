@@ -1,5 +1,5 @@
 function dogrula() {
-
+    
     $("input.form-control").removeClass("is-invalid");
     $(".uyari").remove();
 
